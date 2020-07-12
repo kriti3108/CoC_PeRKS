@@ -2,6 +2,7 @@
 ### Team-Name: PeRKS
 ## Team Members
 * Sarah Nisar Tisekar - sarahtisekar@gmail.com
+* Nikita Deokar- nikitadeokar3108@gmail.com
 ## Mentors
 * Deep Vora
 * Pranav
